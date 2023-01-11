@@ -1,4 +1,4 @@
-@import "televu_1400px.css" screen and (max-width: 1400px);
+@import url("televu_1400px.css");
 @import "televu_1280px.css" screen and (max-width: 1280px);
 @import "televu_991px.css" screen and (max-width: 991px);
 @import "televu_767px.css" screen and (max-width: 767px);
