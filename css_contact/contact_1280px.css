@@ -144,12 +144,11 @@ input[type="submit"]:hover {
   border-radius: 15px;
 
   font-size: 20px;
-
   background-color: #feca6e;
 
   padding: 2px;
 
-  margin-left: 170px;
+  margin-left: 100px;
 }
 
 .centerbtn {
@@ -157,12 +156,23 @@ input[type="submit"]:hover {
   border-radius: 15px;
 
   background-color: #feca6e;
-
   font-size: 20px;
 
   padding: 2px;
 
-  margin-left: 280px;
+  margin-left: 150px;
+}
+
+.centerrightbtn {
+  box-sizing: border-box;
+  border-radius: 15px;
+
+  background-color: #feca6e;
+  font-size: 20px;
+
+  padding: 2px;
+
+  margin-left: 150px;
 }
 
 .contacts {
@@ -170,12 +180,11 @@ input[type="submit"]:hover {
   border-radius: 15px;
 
   background-color: #feca6e;
-
   font-size: 20px;
 
   padding: 2px;
 
-  margin-left: 210px;
+  margin-left: 150px;
 }
 
 button:hover {
